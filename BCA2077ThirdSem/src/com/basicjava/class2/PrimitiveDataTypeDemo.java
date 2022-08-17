@@ -14,6 +14,11 @@ public class PrimitiveDataTypeDemo {
 		
 		System.out.println("Integer : "+num1);
 		System.out.println("Float : "+num2);
+		System.out.println("Double : "+num3);
+		System.out.println("Boolean : "+flag);
+		System.out.println("Long : "+num4);
+		System.out.println("Char : "+data);
+		System.out.println("Byte : "+num5);
 		
 		
 	}
