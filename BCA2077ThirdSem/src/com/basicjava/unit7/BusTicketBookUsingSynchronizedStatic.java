@@ -2,9 +2,9 @@ package com.basicjava.unit7;
 
 public class BusTicketBookUsingSynchronizedStatic {
 	
-	int total_seats = 35;
+	static int total_seats = 35;
 	
-	synchronized public void bookTicket(int seats) {
+	static synchronized public void bookTicket(int seats) {
 		if(total_seats >= seats) {
 			System.out.println("Ticket Booked Successfully! "+seats);
 			total_seats = total_seats - seats;
