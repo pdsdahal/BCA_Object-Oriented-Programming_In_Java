@@ -13,7 +13,8 @@ import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
 public class RegistrationForm extends JFrame {
-
+	
+	private static final long serialVersionUID = 1L;
 	JLabel lblFirstName, lblLastName, lblFaculty, lblGender;
 	JTextField txtFirstName, txtLastName;
 	JRadioButton btnMale, btnFemale;
