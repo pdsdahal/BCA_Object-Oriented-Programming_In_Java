@@ -9,6 +9,9 @@ import javax.swing.JTextField;
 
 public class FlowLayoutDemo extends JFrame {
 	
+
+	private static final long serialVersionUID = 1L;
+
 	JLabel lblUsername, lblPassword;
 	
 	JTextField txtUsername;
