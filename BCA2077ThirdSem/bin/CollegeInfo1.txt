@@ -1,4 +1,0 @@
-Name : Ram Panday
-RollNo : 12
-CollegeName : Texas
-PhoneNo : 23456789
