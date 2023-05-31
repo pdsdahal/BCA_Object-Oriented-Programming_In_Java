@@ -5,6 +5,6 @@ BCA Object oriented programming in java
 * [Syllabus](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Syllabus/OOP-in-Java-BCA-Syllabus.pdf)
 
 # Assignments
-[Unit 1 : Introduction to Java](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-1.pdf)
-[Unit 2 : Tokens, Expressions and Control Structures](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-2.pdf)
-
+[Unit 1 : Introduction to Java](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-1.pdf)<br>
+[Unit 2 : Tokens, Expressions and Control Structures](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-2.pdf)<br>
+[Unit 3 : Object Oriented Programming Concepts](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-3.pdf)<br>
