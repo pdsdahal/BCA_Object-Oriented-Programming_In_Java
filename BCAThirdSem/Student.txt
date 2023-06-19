@@ -1,0 +1,2 @@
+CollegeName : Texas International College
+Address : Mitrapark
