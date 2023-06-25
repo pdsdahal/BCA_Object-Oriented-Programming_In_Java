@@ -11,5 +11,7 @@ BCA Object oriented programming in java
 [Unit 4 : Inheritance & Packaging](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-4.pdf)<br>
 [Unit 5 : Handling Error/Exceptions](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-5.pdf)<br>
 [Unit 6 : Handling Strings](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-6.pdf)<br>
-[Unit 7 : Handling Strings](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-7.pdf)<br>
-[Unit 8 : Handling Strings](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-8.pdf)<br>
+[Unit 7 : Threads](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-7.pdf)<br>
+[Unit 8 : I/O and Streams](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-8.pdf)<br>
+[Unit 9 : Understanding Core Packages](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-9.pdf)<br>
+[Unit 10 : Holding Collection of Data](https://github.com/pdsdahal/BCA_Object-Oriented-Programming_In_Java/blob/main/BCAThirdSem/Oop%20Java%20Material/Assignments/Assignment-10.pdf)<br>
